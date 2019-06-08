@@ -1,3 +1,8 @@
 com\rohit\rest\config\DemoAppConfig.class
-com\rohit\rest\restclass\DemoRestController.class
+com\rohit\rest\restclass\StudentRestExceptionHandler.class
+com\rohit\rest\Entity\Student.class
+com\rohit\rest\Entity\StudentErrorResponse.class
 com\rohit\rest\config\MySpringMvcDispatcherServletInitializer.class
+com\rohit\rest\restclass\DemoRestController.class
+com\rohit\rest\Exception\StudentNotFoundException.class
+com\rohit\rest\restclass\StudentRestController.class
